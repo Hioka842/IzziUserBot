@@ -7,8 +7,8 @@ import pyfiglet
 from datetime import datetime
 
 # Конфигурация
-API_ID = 22054765
-API_HASH = "385c8d48db040df0c610e0ddce4d37fc"
+API_ID = 
+API_HASH = ""
 BOT_TOKEN = " "
 # 
 # Настройка логов
